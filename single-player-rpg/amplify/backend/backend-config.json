@@ -1,0 +1,15 @@
+{
+    "auth": {
+        "singleplayerrpg71d63f77": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": []
+        }
+    },
+    "hosting": {
+        "amplifyhosting": {
+            "service": "amplifyhosting",
+            "type": "cicd"
+        }
+    }
+}

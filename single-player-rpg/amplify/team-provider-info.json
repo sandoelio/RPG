@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-singleplayerrpg-dev-143903-authRole",
+            "UnauthRoleArn": "arn:aws:iam::157095288638:role/amplify-singleplayerrpg-dev-143903-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::157095288638:role/amplify-singleplayerrpg-dev-143903-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-singleplayerrpg-dev-143903-deployment",
+            "UnauthRoleName": "amplify-singleplayerrpg-dev-143903-unauthRole",
+            "StackName": "amplify-singleplayerrpg-dev-143903",
+            "StackId": "arn:aws:cloudformation:us-east-2:157095288638:stack/amplify-singleplayerrpg-dev-143903/be7f0d40-c9e6-11ea-a97b-0ade6091f9d8",
+            "AmplifyAppId": "d2sjjdy0iwi32r"
+        },
+        "categories": {
+            "auth": {
+                "singleplayerrpg71d63f77": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2sjjdy0iwi32r",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
